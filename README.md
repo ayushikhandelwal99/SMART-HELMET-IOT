@@ -3,7 +3,7 @@
     
 =====
 
-| NodeMCU  ||  C Sharp  ||  IOT  ||  WIFI 
+ NodeMCU  ||  C Sharp  ||  IOT  ||  WIFI 
 
 =====
 
@@ -45,17 +45,17 @@ SMART-HELMET-IOT has a vast future scope some of which under development are :
 
 **TEAM: CODESPEAR**
 
-1) `Ayushi Khandelwal <www.linkedin.com/in/ayushi-khandelwal-3047a416a/>`_
+1) [Ayushi Khandelwal](www.linkedin.com/in/ayushi-khandelwal-3047a416a/)
 
-2) `Arpit Khandelwal <https://www.facebook.com/arpit.khandelwal.1276>`_
+2) [Arpit Khandelwal](https://www.facebook.com/arpit.khandelwal.1276)
 
-3) `Himani Jain <https://github.com/jainhimani1999>`_
+3) [Himani Jain](https://github.com/jainhimani1999)
 
-4) `Akshay Thakur <https://github.com/GHakshay>`_
+4) [Akshay Thakur](https://github.com/GHakshay)
 
-5) `Harsh Vijay <https://www.linkedin.com/in/harsh-vijay>`_
+5) [Harsh Vijay](https://www.linkedin.com/in/harsh-vijay)
 
-6) `Bhavya Jain <https://www.facebook.com/bhavya.jain.108>`_
+6) [Bhavya Jain](https://www.facebook.com/bhavya.jain.108)
 
 
 
