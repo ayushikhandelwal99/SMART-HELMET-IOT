@@ -7,7 +7,6 @@ SMART-HELMET-IOT is developed in such a way that it can be easily integrated wit
 
 SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the whole system.
 
-https://github.com/hvijaycse/SMART-HELMET-IOT/blob/master/graphics/git-mid.jpg?raw=true
 FUTURE:
 
 SMART-HELMET-IOT has a vast future scope some of which under development are :
