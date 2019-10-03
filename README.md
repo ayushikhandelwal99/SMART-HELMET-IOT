@@ -1,5 +1,5 @@
-.. image::https://github.com/ayushikhandelwal99/SMART-HELMET-IOT/blob/master/Graphics/git-start.jpg
-    :target: https://github.com/ayushikhandelwal99/SMART-HELMET-IOT-
+![Optional Text](../master/Graphics/git-start.jpg)
+
     
 =====
 
@@ -22,9 +22,7 @@ SMART-HELMET-IOT is also feasible and will cost less than 300 rupees for the who
 
 =====
 
-
-.. image::https://github.com/ayushikhandelwal99/SMART-HELMET-IOT/blob/master/Graphics/git-mid.jpg
-    :target: https://github.com/ayushikhandelwal99/SMART-HELMET-IOT-
+![Optional Text](../master/Graphics/git-mid.jpg)
 
 
 =====
