@@ -1,5 +1,5 @@
-.. image:: https://github.com/ayushikhandelwal99/SMART-HELMET-IOT/blob/master/graphics/git-start.jpg?raw=true
-    :target: https://github.com/ayushikhandelwal99/SMART-HELMET-IOT-
+.. image::https://github.com/ayushikhandelwal99/SMART-HELMET-IOT/blob/master/Graphics/git-start.jpg
+    :target::https://github.com/ayushikhandelwal99/SMART-HELMET-IOT-
     
 =====
 
